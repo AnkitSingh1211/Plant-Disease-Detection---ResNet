@@ -38,4 +38,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/AnkitSingh1211/Plant-Disease-Detection---ResNet.git
 cd Plant-Disease-Detection---ResNet
 
-![Plant-Disease-Detection](Screenshot 2025-03-02 000739.png)
+![Plant-Disease-Detection](Screenshot%202025-03-02%20000739.png)
