@@ -1,4 +1,5 @@
 # 🌿 Plant Disease Detection using ResNet-14
+![Plant-Disease-Detection](Screenshot%202025-03-02%20000739.png)
 
 ## 📌 Overview
 This project implements a **Plant Disease Detection System** using a **ResNet-14** deep learning model. The goal is to classify plant diseases from leaf images with high accuracy. The system helps farmers and researchers detect diseases early, improving crop health and yield.
@@ -38,4 +39,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/AnkitSingh1211/Plant-Disease-Detection---ResNet.git
 cd Plant-Disease-Detection---ResNet
 
-![Plant-Disease-Detection](Screenshot%202025-03-02%20000739.png)
+
